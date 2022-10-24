@@ -1,5 +1,3 @@
-# nothing_to_trash
-
 We created the project as a remote group within two weeks using the MERN stack.
 
 MongoDB
