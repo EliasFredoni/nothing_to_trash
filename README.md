@@ -5,6 +5,6 @@ Express.js
 React.js
 Node.js
 
-You can see the result at https://nothingtotrash-frontend.herokuapp.com/ .
+You can see the result at: https://nothingtotrash-frontend.herokuapp.com/ 
 
 Many thanks to the team.
